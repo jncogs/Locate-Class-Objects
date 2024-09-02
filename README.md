@@ -6,6 +6,8 @@ Menu Command
 
 1.0.1 - 5/10/2023
 
+This plug-in is written in Vectorscript (Pascal) and can be used in any version of [Vectorworks](https://www.vectorworks.net/) 2019 or newer.
+
 ## Description
 
 Opens a dialog box showing all instances of a Class in the current drawing. This can range from geometry within Symbol Definitions, Symbol Options such as **Assign to Class**, or Classes defined within Wall Components. Designed to track down errant objects when attempting to delete Classes.
