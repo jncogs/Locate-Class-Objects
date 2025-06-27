@@ -1,4 +1,4 @@
-# Locate Class Objects
+c# Locate Class Objects
 
 Menu Command
 
@@ -116,6 +116,7 @@ No Known Bugs
 | :---: | :--- |
 | 09/01/2024 | Add ability to search Wall Styles |
 | 09/01/2024 | Add ability to search PIO class parameters |
+| 06/27/2025 | Add ability to traverse object history |
 
 ## License
 
